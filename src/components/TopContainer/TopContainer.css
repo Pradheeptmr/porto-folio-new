@@ -1,0 +1,7 @@
+.topcontainer {
+    background: url("https://images.pexels.com/photos/7988087/pexels-photo-7988087.jpeg?auto=compress&cs=tinysrgb&w=400");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.8);
+}
